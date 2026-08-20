@@ -1,0 +1,65 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-08-19T20:55:24.264Z",
+      "notes": "",
+      "position": {
+        "lat": "40.434542229894106",
+        "lng": "-3.6726159827467657"
+      },
+      "id": "ybfVe6EgQAg"
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-08-19T20:55:30.386Z",
+      "notes": "",
+      "position": {
+        "lat": "48.863872654029116",
+        "lng": "2.34105627594873"
+      },
+      "id": "xyuLPRvKCOA"
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2026-08-19T21:19:09.514Z",
+      "notes": "",
+      "position": {
+        "lat": "51.49568147505235",
+        "lng": "-0.12986186181692008"
+      },
+      "id": "NacYJfRo9zE"
+    },
+    {
+      "cityName": "Brest",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-08-19T21:20:40.410Z",
+      "notes": "",
+      "position": {
+        "lat": "48.40018090670369",
+        "lng": "-4.4887304181489895"
+      },
+      "id": "ZY7ym6mMYk4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
